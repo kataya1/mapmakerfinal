@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\mohamdkataya1\source\repos\mapmaker\mapmaker\source.cpp(151): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\mohamdkataya1\source\repos\mapmaker\mapmaker\source.cpp(152): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  mapmaker.vcxproj -> C:\Users\mohamdkataya1\source\repos\mapmaker\Debug\mapmaker.exe
